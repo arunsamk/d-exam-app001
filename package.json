@@ -1,5 +1,5 @@
 {
-	"name": "Exam Application Front End",
+	"name": "exam-application",
 	"description": "Front end to deploy in heroku",
 	"main": "server.js",
 	"scripts": {
