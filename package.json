@@ -1,0 +1,11 @@
+{
+	"name": "Exam Application Front End",
+	"description": "Front end to deploy in heroku",
+	"main": "server.js",
+	"scripts": {
+		"start" : "node server.js"
+	},
+	"dependencies": {
+		"express": "~4.9.8"
+	}
+}
